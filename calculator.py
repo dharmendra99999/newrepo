@@ -1,4 +1,4 @@
-def add(A,B)
+def add(A,B):
     return A + B
 
 def subtract(A,B):
